@@ -49,7 +49,7 @@ O repositório está estruturado da seguinte forma:
   - `projeto_supermercado_03_clusterizacao_visualizacao.ipynb`: notebook com função para visualização em 3D dos clusters gerados pelo K-Means (sem pré-processamento, somente para comparação).
   - [`projeto_supermercado_04_pipeline.ipynb`](notebooks/projeto_supermercado_04_pipeline.ipynb): notebook com a clusterização dos dados usando K-Means **com pré-processamento** utilizando pipelines do Scikit-Learn.
   - [`projeto_supermercado_05_pipeline_pca.ipynb`](notebooks/projeto_supermercado_05_pipeline_pca.ipynb): notebook com a clusterização dos dados usando K-Means após redução de dimensionalidade com PCA utilizando pipelines do Scikit-Learn.
-- Na pasta `Scripts` está o arquivo [`funcoes_auxiliares.py`](Scripts/funcoes_auxiliares.py) com as funções auxiliares utilizadas.
+  - [`funcoes_auxiliares.py`](Scripts/funcoes_auxiliares.py) arquivo com as funções auxiliares utilizadas.
 - Na pasta `reports` estão os relatórios gerados durante o projeto utilizando a biblioteca [ydata-profiling](https://github.com/ydataai/ydata-profiling).
 
 ## Detalhes do dataset utilizado e resumo dos resultados
