@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Francisco&nbsp;Bustamante-red.svg)](https://www.linkedin.com/in/flsbustamante/)
+[![author](https://img.shields.io/badge/Author-Amaurí&nbsp;Geraldes-red.svg)](https://www.linkedin.com/in/amauri-geraldes/)
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 
 # Segmentação de clientes de um supermercado
@@ -12,7 +12,7 @@ Um supermercado, através de cartões de fidelidade, possui alguns dados básico
 Projeto de Segmentação de Clientes, com Clusterização da Base de Dados de um Supermercado utilizando os seguintes pacotes da Linguagem Python: [Pandas](https://pandas.pydata.org/docs/user_guide/index.html), [Matplotlib](https://matplotlib.org/stable/users/index), [Seaborn](https://seaborn.pydata.org/examples/index.html), [Scikit-Learn](https://scikit-learn.org/stable/modules/clustering.html#clustering), etc.
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/flsbustamante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/amauri-geraldes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ## Objetivos
@@ -24,8 +24,8 @@ Objetivos detalhados:
 - Análise exploratória utilizando o Pandas e o ydata_profiling;
 - Comparação dos resultados da clusterização sem e com pré-processamento dos dados, mostrando a importância de se realizar o pré-processamento dos dados;
 - Apresentar uma estrutura de projeto de Ciência de Dados, com a utilização de notebooks, scripts, relatórios e repositório no GitHub;
-- Apresentar boas práticas de programação em Python, como a utilização de funções e arquivos de script para facilitar o reaproveitamento de código;
-- Mostrar boas práticas de uso do SciKit-Learn, como a utilização de pipelines.
+- Demonstrar boas práticas de programação em Python, como a utilização de funções e arquivos de script para facilitar o reaproveitamento de código;
+- Demonstrar boas práticas de uso do SciKit-Learn, como a utilização de Pipelines.
 
 ## Estrutura do repositório
 
@@ -37,7 +37,6 @@ O repositório está estruturado da seguinte forma:
 ├── modelos
 ├── notebooks
 ├── reports
-├── Scripts
 ```
 
 - Na pasta `dados` estão os dados utilizados no projeto. O arquivo `Mall_Customers.csv` é o dataset utilizado originalmente. Os demais arquivos são os datasets gerados durante o projeto.
